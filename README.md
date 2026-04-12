@@ -5,6 +5,7 @@
 ---
 
 ## 📢 News
+- **[2026-04-12]** 🎉 We release the [core prompt](prompt.py) and [simplified framework code](simplified_code/) for quick understanding and reproduction!
 - **[2026-02-11]** The paper is under review. **Code will be released soon!** Stay tuned.
 
 ---
